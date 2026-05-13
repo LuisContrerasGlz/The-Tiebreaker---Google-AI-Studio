@@ -1,8 +1,6 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# The Tiebreaker App
 
-# Run and deploy your AI Studio app
+The Tiebreaker App helps to make decisions. You need to provide a decision that you need to make, and it will show different pros and cons. This can be through a pros and cons list, a comparison table, or even a SWOT analysis.
 
 This contains everything you need to run your app locally.
 
